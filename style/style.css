@@ -1,0 +1,55 @@
+/* command untuk mengatur warna latar belakang */
+  .navbar {
+    background-color: #3f0712;
+  }
+  
+  /* command untuk mengatur warna teks */
+  .navbar-brand,
+  .navbar-nav .nav-link {
+    color: #ffffff;
+  }
+  
+  /* command untuk mengatur warna teks saat hover */
+  .navbar-brand:hover,
+  .navbar-nav .nav-link:hover {
+    color: #ffffff;
+  }
+  
+  /* command untuk mengatur tinggi gambar carousel*/
+  .carousel-item img {
+    height: 400px;
+  }
+  
+  /* command untuk mengatur lebar tombol navigasi carousel */
+  .carousel-control-prev,
+  .carousel-control-next {
+    width: 5%;
+  }
+  
+  /* command untuk mengatur warna latar belakang ikon navigasi carousel */
+  .carousel-control-prev-icon,
+  .carousel-control-next-icon {
+    background-color: rgba(0, 0, 0, 0.5);
+  }
+  
+  /* command untuk mengatur waena ikon navigasi carousel */
+  .carousel-control-prev-icon:before,
+  .carousel-control-next-icon:before {
+    color: #ffffff;
+  }
+  
+  /* command untuk ukuran font dan warna teks pada section */
+  .section-heading {
+    font-size: 2rem;
+    color: #333333;
+  }
+  
+  /* command untuk mengatur warna background footer */
+  footer {
+    background-color: #34495e;
+  }
+  
+  /* command untuk mengatur warna teks footer */
+  footer p {
+    color: #ffffff;
+  }
